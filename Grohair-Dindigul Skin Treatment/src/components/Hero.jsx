@@ -44,7 +44,7 @@ export default function Hero() {
     const date = now.toISOString().split('T')[0]
     const time = now.toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit', hour12: true })
 
-    fetch('https://adgrohairgloskincumbum.in/api/email.php', {
+    fetch('https://adgrohairgloskindindigul.in/api/email.php', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
